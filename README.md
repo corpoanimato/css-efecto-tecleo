@@ -5,8 +5,7 @@
 
 ## Qué es
 
-Me inspiré en un dibujo antiguo hecho por mi que tenia un texto con fuente tipo maquina de escribir. Es el mismo dibujo pero con animación de escritura letra por letra
-
+Animación de escritura. Letra por letra estilo teclado digital sobre una ilustración hecha también por mi
 ## Tecnologías
 
 - HTML
