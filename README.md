@@ -1,7 +1,7 @@
 # css-efecto-tecleo
 > Efecto mecanografía o tecleado hecho con CSS puro.
 
-![preview](./preview.gif)
+<img src="./preview.gif" width="250" height="250"/>)
 
 ## Qué es
 
