@@ -1,5 +1,5 @@
 # css-efecto-tecleo
-> Efecto mec`a`nografía o tecleado hecho con CSS puro.
+> Efecto mecánografía o tecleado hecho con CSS puro.
 
 <img src="./tecleoCSS.gif" width="400" height="396"/>
 
